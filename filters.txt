@@ -1,0 +1,5 @@
+||content.fruithosted.net/splash/
+||thumb.oloadcdn.net/splash/
+||*.playercdn.net/thumb/
+
+9anime.to##.comment.widget
